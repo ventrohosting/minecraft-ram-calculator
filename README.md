@@ -2,7 +2,7 @@
 
 Berechne den RAM-Bedarf deines Minecraft-Servers nach Spielerzahl, Serverart und Weltgröße: kostenlos, mit nachvollziehbarer Rechnung.
 
-**Online nutzen:** [Minecraft Server RAM-Rechner](https://ventrohosting.com/tools/minecraft-ram-rechner) · Demo: https://dannytheone.github.io/minecraft-ram-calculator/
+**Online nutzen:** [Minecraft Server RAM-Rechner](https://ventrohosting.com/tools/minecraft-ram-rechner) · Demo: https://ventrohosting.github.io/minecraft-ram-calculator/
 
 ## Funktionen
 
